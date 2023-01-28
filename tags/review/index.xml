@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on MythWeaver</title>
-    <link>https://weavermyth.github.io/posts/</link>
-    <description>Recent content in Posts on MythWeaver</description>
+    <title>Review on MythWeaver</title>
+    <link>https://weavermyth.github.io/tags/review/</link>
+    <description>Recent content in Review on MythWeaver</description>
     <image>
       <url>https://weavermyth.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://weavermyth.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Jan 2023 23:30:03 +0000</lastBuildDate><atom:link href="https://weavermyth.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Darkest Garfield Story Ever</title>
-      <link>https://weavermyth.github.io/posts/darkest.garfield/</link>
-      <pubDate>Fri, 27 Jan 2023 23:30:03 +0000</pubDate>
-      
-      <guid>https://weavermyth.github.io/posts/darkest.garfield/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>About Soundcards</title>
-      <link>https://weavermyth.github.io/posts/about.soundcards/</link>
-      <pubDate>Tue, 01 Nov 2022 01:00:00 +0000</pubDate>
-      
-      <guid>https://weavermyth.github.io/posts/about.soundcards/</guid>
-      <description>Sound systems in computers have fascinated me for years, I have done countless research on them, but my knowledge is still very superficial. Every year, at certain times, I do research about old computers, sound cards, graphics cards, games, and learn over and over again what I know.
-I worked a lot on sound cards, especially on Sound Blaster and its models. Although I know many fine details, I have learned many things wrongly due to the information pollution on the internet and the indirect explanation of some expressions instead of the correct ones.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://weavermyth.github.io/tags/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Brief History of BeOS</title>
       <link>https://weavermyth.github.io/posts/beos/</link>

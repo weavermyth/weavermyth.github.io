@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://weavermyth.github.io/posts/darkest.garfield/</loc>
+    <loc>https://weavermyth.github.io/tags/comics/</loc>
     <lastmod>2023-01-27T23:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://weavermyth.github.io/tags/first/</loc>
+    <loc>https://weavermyth.github.io/posts/darkest.garfield/</loc>
     <lastmod>2023-01-27T23:30:03+00:00</lastmod>
   </url><url>
     <loc>https://weavermyth.github.io/</loc>
@@ -16,9 +16,6 @@
   </url><url>
     <loc>https://weavermyth.github.io/tags/</loc>
     <lastmod>2023-01-27T23:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://weavermyth.github.io/posts/sample/</loc>
-    <lastmod>2023-01-27T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://weavermyth.github.io/posts/about.soundcards/</loc>
     <lastmod>2022-11-01T01:00:00+00:00</lastmod>
@@ -31,6 +28,18 @@
   </url><url>
     <loc>https://weavermyth.github.io/tags/retro/</loc>
     <lastmod>2022-11-01T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weavermyth.github.io/posts/beos/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weavermyth.github.io/tags/apps/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weavermyth.github.io/tags/os/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weavermyth.github.io/tags/review/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weavermyth.github.io/about/</loc>
   </url><url>
